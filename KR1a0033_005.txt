@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 郭氏傳家易說
-#+DATE: 2015-09-23 09:34:25
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:54:35.394293
+#+PROPERTY: ID KR1a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0033_WYG_005-1a>¶
 欽定四庫全書¶
 　郭氏傳家易説卷五¶
@@ -1244,4 +1246,3 @@
 　爻皆不能永終之敝也¶
 　¶
 　郭氏傳家易說卷五¶
-

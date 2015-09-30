@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 郭氏傳家易說
-#+DATE: 2015-09-23 09:34:25
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:54:35.337399
+#+PROPERTY: ID KR1a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0033_WYG_003-1a>¶
 欽定四庫全書¶
 　郭氏傳家易説卷三¶
@@ -1334,4 +1336,3 @@
 　出于不得已故无咎若得已而不已則過矣正邦者¶
 　非利人民土地之師也¶
 　郭氏傳家易説卷三¶
-

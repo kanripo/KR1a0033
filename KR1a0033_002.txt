@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 郭氏傳家易說
-#+DATE: 2015-09-23 09:34:25
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:54:35.305876
+#+PROPERTY: ID KR1a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0033_WYG_002-1a>¶
 欽定四庫全書¶
 　郭氏傳家易説卷二¶
@@ -1154,4 +1156,3 @@
 　¶
 　¶
 　郭氏傳家易説卷二¶
-
